@@ -67,7 +67,7 @@ const App = () => {
               <Text>Language</Text>
             </Box>
             <Box>
-              <Text>Typescript, NestJs, Java, Domain Driven Design</Text>
+              <Text>Javascript, Typescript, NestJs, Java, Domain Driven Design</Text>
               <Text>HTML, CSS, ReactJs</Text>
               <Text>MongoDB, PostgresSQL</Text>
               <Text>Pytorch (Basic), Pandas, Gurobi</Text>
@@ -89,8 +89,7 @@ const App = () => {
             <Box><Text>- Develop an application that helps a large logistic customer manage their complex delivery plan
               in real time. The application also draws the attentions of many other logistic companies and becomes one
               of the key product of the company.</Text></Box>
-            <Box><Text>- Determine the bottle neck of a project that were going on for years and complete the project in
-              months</Text></Box>
+            <Box><Text>- Resolve a project that had been delayed for years</Text></Box>
           </Box>
         </Box>
 
@@ -120,9 +119,9 @@ const App = () => {
             <Box pl={'20px'}>
               <Box><Text>- Initialize the project from scratch</Text></Box>
               <Box><Text>- Design application architecture and data flow among multiple components</Text></Box>
-              <Box><Text>- Develop the backend with NestJs and Postgres</Text></Box>
-              <Box><Text>- Collaborate with other team members to expedite product delivery</Text></Box>
               <Box><Text>- Design and develop test cases</Text></Box>
+              <Box><Text>- Develop the backend with NestJs and Postgres</Text></Box>
+              <Box><Text>- Collaborate with other team members</Text></Box>
             </Box>
             <Box pl={'10px'}><Text>2. Deploy and manage a dedicated Linux server</Text></Box>
             <Box pl={'20px'}>
@@ -165,8 +164,7 @@ const App = () => {
               <Box><Text>- Automate frontend tests with Selenium</Text></Box>
               <Box><Text>- Automate backend test with JUnit, PHPUnit</Text></Box>
               <Box><Text>- Automate load test with JMeter</Text></Box>
-              <Box><Text>- Integrate testing into image building process on Google
-                Cloud</Text></Box>
+              <Box><Text>- Deploy automated test to Google Cloud</Text></Box>
             </Box>
             <Box pt={'20px'}><Text>Maintain existing products</Text></Box>
             <Box pl={'10px'}>
